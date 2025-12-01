@@ -1,6 +1,6 @@
 # GalactiPay Frontend
 
-This is the frontend of the OKHLA project, built using **MERN** and **TailwindCSS**.  
+This is the frontend of the GalactPay project, built using **MERN** and **TailwindCSS**.  
 The project includes a modern UI, responsive design, and integration with backend APIs.
 
 ---
@@ -13,10 +13,6 @@ The project includes a modern UI, responsive design, and integration with backen
 - JavaScript (ES6+)  
 - Vite  
 
-### **Backend**
-- Node.js  
-- Express.js  
-- MongoDB  
 
 ### **Tools**
 - Git & GitHub  
@@ -25,10 +21,3 @@ The project includes a modern UI, responsive design, and integration with backen
 
 ---
 
-## 📦 Installation & Setup
-
-Follow the steps below to run the project locally:
-
-### **1. Clone this Repository**
-```bash
-git clone https://github.com/your-username/your-repo.git
