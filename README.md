@@ -1,4 +1,4 @@
-# OKHLA Frontend
+# GalactiPay Frontend
 
 This is the frontend of the OKHLA project, built using **MERN** and **TailwindCSS**.  
 The project includes a modern UI, responsive design, and integration with backend APIs.
